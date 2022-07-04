@@ -7,6 +7,8 @@ gem 'bootstrap-sass', '3.4.1'
 
 gem 'device'
 
+gem 'pg'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3"
 
