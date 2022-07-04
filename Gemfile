@@ -5,6 +5,8 @@ ruby "3.0.0"
 
 gem 'bootstrap-sass', '3.4.1'
 
+gem 'device'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.0.3"
 
